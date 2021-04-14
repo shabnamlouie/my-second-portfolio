@@ -28,7 +28,7 @@
 }
 
 .btn-secondary, .bg-secondary {
-    background: #000000;
+    background: #4e4d02;
     color:#fff;
 }
 
@@ -50,6 +50,7 @@
 /* flex items */
 .flex-items {
     display: flex;
+    flex-direction: column;
     text-align: center;
     justify-content: center;
     text-align:center;
@@ -68,7 +69,7 @@
 
 .flex-columns .row {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     width: 100%;
 }
@@ -143,3 +144,8 @@
     padding: 0 4px;
 }
 
+@media (min-width: 770px) {
+    .flex-columns .row {
+        flex-direction: row;
+    }
+}
