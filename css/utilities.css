@@ -63,6 +63,9 @@
 }
 
 /* flex columns */
+.flex-columns {
+    margin: 2rem 0;
+}
 .flex-columns.flex-reverse .row {
     flex-direction: row-reverse;
 }
@@ -147,5 +150,8 @@
 @media (min-width: 770px) {
     .flex-columns .row {
         flex-direction: row;
+    }
+    .column-1 img {
+        width: 50%;
     }
 }
