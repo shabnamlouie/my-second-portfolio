@@ -107,6 +107,10 @@ font-weight:400;
     background: rgba(0,0,0,0.1)
 }
 
+.hero * {
+    z-index: 10;
+}
+
 /* blog */
 .blog-title {
     margin: 8rem 0 2rem;
@@ -140,9 +144,12 @@ font-weight:400;
 
 
 /* contact */
+.contact-page {
+    height: 100vh;
+}
 .contactme {
     width: 100%;
-    padding: 20px 0;
+    padding: 45px 0;
 }
 
 .contactme label {
@@ -155,6 +162,10 @@ font-weight:400;
     padding: 4px;
     height: 40px;
     border: #f5f5f5 1px solid;
+}
+
+.form-section {
+    margin-top: 5rem;
 }
 
 .message {
@@ -187,6 +198,7 @@ font-weight:400;
 /* post */
 .post {
     padding: 50px 30px;
+    height: 100vh;
 }
 
 .post h2 {
@@ -194,6 +206,7 @@ font-weight:400;
     margin-bottom: 20px;
     padding-bottom: 10px;
     border-bottom : #ccc solid 1px;
+    margin-top: 5rem;
 }
 
 .post .meta {
@@ -202,9 +215,14 @@ font-weight:400;
 
 .post img {
     width: 300px;
-    border-radius: 50%;
+    border-radius: 5%;
     display: block;
     margin: 0 auto 30px;
+}
+.post-Title {
+margin: 1rem 0 1rem;
+text-align: center;
+font-size: 2rem;
 }
 
 
