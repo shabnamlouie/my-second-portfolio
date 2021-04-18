@@ -34,12 +34,12 @@ So you can navigate to other pages.
 ## Contact:
 ![The Contact](images/Home/Contact.png)
 ## Screen shots of pages:
-![The 1](images/Home/1.png)
-![The 2](images/Home/2.png)
-![The 3](images/Home/3.png)
-![The 4](images/Home/4.png)
-![The 5](images/Home/5.png)
-![The 6](images/Home/6.png)
+![The 1](images/Home/1.jpg)
+![The 2](images/Home/2.jpg)
+![The 3](images/Home/3.jpg)
+![The 4](images/Home/4.jpg)
+![The 5](images/Home/5.jpg)
+![The 6](images/Home/6.jpg)
 
 ## Target Audience:
 Target audience for my website is mainly my classmate and techers to see how much I progress I had since I start my course.
