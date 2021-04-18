@@ -20,7 +20,7 @@ Contact ,
 So you can navigate to other pages.
 
 ## Sitemap:
-![The Sitemap](images/Home/site-map.jpg)
+![The Sitemap](images/Home/sitemap.jpg)
 ## Home:
 ![The Home](images/Home/Home.jpg)
 ## About:
