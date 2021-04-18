@@ -148,9 +148,11 @@ font-weight:400;
 
 
 /* contact */
-/* .contact-page { */
-    /* height: 100vh; */
-/* } */
+
+.contact-information {
+    margin-bottom: 5rem;
+}
+
 .contactme {
     width: 100%;
     padding: 45px 0;
@@ -272,6 +274,7 @@ font-size: 2rem;
     justify-content: center;
     text-align: center;
     height: 160px;
+    bottom: 0;
 }
 
 .footer a {
