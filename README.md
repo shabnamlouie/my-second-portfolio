@@ -20,19 +20,19 @@ Contact ,
 So you can navigate to other pages.
 
 ## Sitemap:
-![The Sitemap](images/Home/site-map.png)
+![The Sitemap](images/Home/site-map.jpg)
 ## Home:
-![The Home](images/Home/Home.png)
+![The Home](images/Home/Home.jpg)
 ## About:
-![The About](images/Home/About.png)
+![The About](images/Home/About.jpg)
 ## Works:
-![The Work](images/Home/Works.png)
+![The Work](images/Home/Works.jpg)
 ## Blog:
-![The Blog](images/Home/Blog.png)
+![The Blog](images/Home/Blog.jpg)
 ## Post:
-![The Post](images/Home/Posts.png)
+![The Post](images/Home/Posts.jpg)
 ## Contact:
-![The Contact](images/Home/Contact.png)
+![The Contact](images/Home/Contact.jpg)
 ## Screen shots of pages:
 ![The 1](images/Home/1.jpg)
 ![The 2](images/Home/2.jpg)
