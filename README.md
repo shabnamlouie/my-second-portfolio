@@ -22,24 +22,24 @@ So you can navigate to other pages.
 ## Sitemap:
 ![The Sitemap](images/Home/site-map.png)
 ## Home:
-![The Sitemap](images/Home/Home.png)
+![The Home](images/Home/Home.png)
 ## About:
-![The Sitemap](images/Home/About.png)
+![The About](images/Home/About.png)
 ## Works:
-![The Sitemap](images/Home/Works.png)
+![The Work](images/Home/Works.png)
 ## Blog:
-![The Sitemap](images/Home/Blog.png)
+![The Blog](images/Home/Blog.png)
 ## Post:
-![The Sitemap](images/Home/Posts.png)
+![The Post](images/Home/Posts.png)
 ## Contact:
-![The Sitemap](images/Home/Contact.png)
+![The Contact](images/Home/Contact.png)
 ## Screen shots of pages:
-![The Sitemap](images/Home/1.png)
-![The Sitemap](images/Home/2.png)
-![The Sitemap](images/Home/3.png)
-![The Sitemap](images/Home/4.png)
-![The Sitemap](images/Home/5.png)
-![The Sitemap](images/Home/6.png)
+![The 1](images/Home/1.png)
+![The 2](images/Home/2.png)
+![The 3](images/Home/3.png)
+![The 4](images/Home/4.png)
+![The 5](images/Home/5.png)
+![The 6](images/Home/6.png)
 
 ## Target Audience:
 Target audience for my website is mainly my classmate and techers to see how much I progress I had since I start my course.
