@@ -20,26 +20,26 @@ Contact ,
 So you can navigate to other pages.
 
 ## Sitemap:
-![The Sitemap](images/Home/Sitemap.jpg)
+![The Sitemap](./docs/images/Home/Sitemap.jpg)
 ## Home:
-![The Home](images/Home/Home.jpg)
+![The Home](./docs/images/Home/Home.jpg)
 ## About:
-![The About](images/Home/About.jpg)
+![The About](./docs/images/Home/About.jpg)
 ## Works:
-![The Work](images/Home/Works.jpg)
+![The Work](./docs/images/Home/Works.jpg)
 ## Blog:
-![The Blog](images/Home/Blog.jpg)
+![The Blog](./docs/images/Home/Blog.jpg)
 ## Post:
-![The Post](images/Home/Posts.jpg)
+![The Post](./docs/images/Home/Posts.jpg)
 ## Contact:
-![The Contact](images/Home/Contact.jpg)
+![The Contact](./docs/images/Home/Contact.jpg)
 ## Screen shots of pages:
-![The 1](images/Home/1.jpg)
-![The 2](images/Home/2.jpg)
-![The 3](images/Home/3.jpg)
-![The 4](images/Home/4.jpg)
-![The 5](images/Home/5.jpg)
-![The 6](images/Home/6.jpg)
+![The 1](./docs/images/Home/1.jpg)
+![The 2](./docs/images/Home/2.jpg)
+![The 3](./docs/images/Home/3.jpg)
+![The 4](./docs/images/Home/4.jpg)
+![The 5](./docs/images/Home/5.jpg)
+![The 6](./docs/images/Home/6.jpg)
 
 ## Target Audience:
 Target audience for my website is mainly my classmate and techers to see how much I progress I had since I start my course.
