@@ -1,0 +1,273 @@
+commit 702a1153e5e7d3d11f13dbda600013320fe24d79
+Merge: 58d23ba b83f11c
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Mon Apr 19 15:59:00 2021 +1000
+
+    Merge pull request #11 from shabnamlouie/post
+    
+    tidy up codes
+
+commit b83f11c851d948b519a45ce00518b612e29d7433
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 15:58:20 2021 +1000
+
+    tidy up codes
+
+commit 58d23ba9846df972136103649d3186036a635e03
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 15:07:09 2021 +1000
+
+    some last changes done
+
+commit c76fdc5dfd73e59d64b9979071a26032e884da18
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 12:36:21 2021 +1000
+
+     Doc and portfolio slide deck added
+
+commit a452f7cc4bc9826d50e39f20d18ee883d30b310b
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 12:03:37 2021 +1000
+
+     some changes done
+
+commit aef65ff3d5f71498922c45877bac2e352abdef1a
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 11:18:21 2021 +1000
+
+    sitemap.xml added
+
+commit 894e958e71dd6651e2f70dbaf29f1eff41f9635c
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 11:00:41 2021 +1000
+
+    changes again in intergrity
+
+commit 468c4cfa63e12ec2c63f138419f613d60d0349c7
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 10:28:33 2021 +1000
+
+    integrity added to pages
+
+commit 4f31480619f861c9dfb9a6d2854fc5273e171844
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 01:50:12 2021 +1000
+
+    some changes done
+
+commit c2043356a1cafde62205c9e00b551e3606618d6d
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 01:14:07 2021 +1000
+
+    readme page changed
+
+commit 3e1571e32804a8abeb02aa345c690b4c2d12df6e
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 01:09:46 2021 +1000
+
+    readme age changed
+
+commit 7922fa867b7534f2c1044f046177986b89077c6b
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 01:07:36 2021 +1000
+
+    readme page changed
+
+commit 4eac94ec4f369944ef232ff8094f0e648a414098
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 00:57:52 2021 +1000
+
+     readme page changed again
+
+commit 88669cd6592b8370cd24b57c849ac578d3998ccd
+Merge: b4b3ee8 8e29597
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Sun Apr 18 18:21:06 2021 +1000
+
+    Merge pull request #10 from shabnamlouie/README
+    
+    readme file changed
+
+commit 8e295971ff1bd3609d563b3328e16b5fe1dc8bf5
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Sun Apr 18 18:20:16 2021 +1000
+
+    readme file changed
+
+commit b4b3ee8cebec55c576f70fc21ccdec3b78510a1c
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Sun Apr 18 18:16:10 2021 +1000
+
+    README file added again
+
+commit 4199e7e5cd76d3f4912f2a1c7e99782c756d55f4
+Merge: ad32091 51994c7
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Sun Apr 18 18:13:29 2021 +1000
+
+    Merge pull request #9 from shabnamlouie/featuretwo
+    
+    README file addedand contact page changes
+
+commit 51994c7b3055a80c064ddc5fe80a58f3e30f6914
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Sun Apr 18 18:11:45 2021 +1000
+
+    README file addedand contact page changes
+
+commit ad3209194fe9d9f689ade4921873dadd6cab401b
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Sat Apr 17 09:07:16 2021 +1000
+
+    gitlog.txt added
+
+commit ec5da867995575810d0568aaefa8035ff889e9d2
+Merge: 388c0c6 4127df8
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Fri Apr 16 15:47:25 2021 +1000
+
+    Merge pull request #8 from shabnamlouie/featureone
+    
+    some pages gone updated
+
+commit 4127df85c2ad9cee0636df6c51f0050b85384f7c
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Fri Apr 16 15:46:33 2021 +1000
+
+    some pages gone updated
+
+commit 388c0c68878f2dfebb1bbfb009ce4b49f42490f7
+Merge: ed61038 005146c
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Fri Apr 16 15:28:55 2021 +1000
+
+    Merge pull request #7 from shabnamlouie/post-page
+    
+    post page added and styled
+
+commit 005146ce189e79f3c6184ff4159fd26d09e89905
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Fri Apr 16 15:27:51 2021 +1000
+
+    post page added and styled
+
+commit ed610386c717644eb984ac594366da629d358c41
+Merge: 65753c8 059e7bd
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Thu Apr 15 20:27:04 2021 +1000
+
+    Merge pull request #6 from shabnamlouie/contact-page
+    
+    contact page added and styled
+
+commit 059e7bd26c5c2572b144fdea9364fd0f26d25860
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Thu Apr 15 20:26:18 2021 +1000
+
+     contact page new changes
+
+commit 65753c87a0310282af63d0d1660c5a86fddca4f3
+Merge: 032f72f d1b72b5
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Thu Apr 15 20:24:19 2021 +1000
+
+    Merge pull request #5 from shabnamlouie/contact-page
+    
+    contact page added and styled
+
+commit d1b72b533c9bf86ed72b29edd82759f5685240d0
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Thu Apr 15 20:23:04 2021 +1000
+
+    contact page added and styled
+
+commit 032f72f9bdf76b8931e10a1486834c5c2d8e6f75
+Merge: 2c60107 278bb68
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Wed Apr 14 22:58:18 2021 +1000
+
+    Merge pull request #4 from shabnamlouie/work-page
+    
+    work page added and styled
+
+commit 278bb68cb48cf04d86263d06f5928652136bd333
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 22:56:18 2021 +1000
+
+    work page added and styled
+
+commit 2c60107824774cda1997ab01531a218599cb3ad2
+Merge: ad66464 9df3257
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Wed Apr 14 19:02:23 2021 +1000
+
+    Merge pull request #3 from shabnamlouie/blog-page
+    
+    blog page added and styled
+
+commit 9df3257dd04a5850305bb483d6afdd5d2349637e
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 18:59:18 2021 +1000
+
+    blog page added and styled
+
+commit ad66464b8774c18d1064fe12e184703376a8d727
+Merge: 5ccc77a a21c52c
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 12:57:36 2021 +1000
+
+    deleted images
+
+commit a21c52c9faa4beaf714fa5dcb23bfb1b258ced5a
+Merge: 9f0cf5c 40c5e25
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Wed Apr 14 12:54:58 2021 +1000
+
+    Merge pull request #2 from shabnamlouie/about-page2
+    
+    About page2
+
+commit 40c5e254e3b3d987d9d17bcd09aa0f8c02e602a1
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 12:54:11 2021 +1000
+
+    new changes in about page
+
+commit 5ccc77a4fc66106c4139f745356f093078a53bb0
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 12:50:12 2021 +1000
+
+    new commit
+
+commit 97939048e1896a033cded50427e5795db3ff2fac
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Wed Apr 14 00:40:16 2021 +1000
+
+    homepage and aboutpage added styled
+
+commit 9f0cf5cae70281b973394b940cb29cf7c8d97c48
+Merge: a9ac45c 73d347c
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Tue Apr 13 13:11:50 2021 +1000
+
+    Merge pull request #1 from shabnamlouie/homepage
+    
+    homepage added styled
+
+commit 73d347c03a498c28216a7543fd842137daf65d88
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Tue Apr 13 13:10:55 2021 +1000
+
+    homepage added styled
+
+commit a9ac45c52ef6244cb537e0b7bb8b810278bd095b
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Tue Apr 13 12:49:05 2021 +1000
+
+    second commit
+
+commit 36f228bc150f99a2b1c3b97e4613b813c2ee1bc2
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Tue Apr 13 12:47:19 2021 +1000
+
+    initial commit
