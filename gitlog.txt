@@ -1,3 +1,24 @@
+commit 9ebbea7ede1d01c7dfeef3874cacbafc4b07cbb6
+Merge: 7f97f86 80c4522
+Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
+Date:   Mon Apr 19 23:51:32 2021 +1000
+
+    Merge pull request #12 from shabnamlouie/featurethree
+    
+     wireframes and screenshoots update
+
+commit 80c45223295b35f8c46adef102f45502b619e3ca
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 23:50:17 2021 +1000
+
+     wireframes and screenshoots update
+
+commit 7f97f8668450452c8ce66d0a8e60a295cbfd6baf
+Author: shabnamlouie <shabnam.louie@gmail.com>
+Date:   Mon Apr 19 16:36:40 2021 +1000
+
+    contact link to home
+
 commit 702a1153e5e7d3d11f13dbda600013320fe24d79
 Merge: 58d23ba b83f11c
 Author: Shabnam <81353445+shabnamlouie@users.noreply.github.com>
